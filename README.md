@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alexandria
 #### Android tinkerer and Dev hobbyist
-![Android tinkerer and Dev hobbyist](https://www.linuxandria.com/wp-content/uploads/2020/12/734892dfa863f3dd71e89c908a897141.jpg)
+![Android tinkerer and Dev hobbyist](https://3.bp.blogspot.com/-7-KmADvPxkY/UgitVrQvgiI/AAAAAAAAASo/lgZiaL6RfnY/s1600/Android+OS+for+Smartphone+Download+Free.jpg)
 
 I'm an Android tinkerer and hobbyist Dev. Find out more at [my website](https://www.linuxandria.com)
 
