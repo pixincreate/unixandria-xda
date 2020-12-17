@@ -2,7 +2,7 @@
 #### Android tinkerer and Dev hobbyist
 ![Android tinkerer and Dev hobbyist](https://www.linuxandria.com/wp-content/uploads/2020/12/734892dfa863f3dd71e89c908a897141.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm an Android tinkerer and hobbyist Dev. Find out more at [my website](https://www.linuxandria.com)
 
 Skills: BASH / JS / HTML / CSS
 
